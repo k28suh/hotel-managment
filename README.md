@@ -27,7 +27,7 @@ Follow these steps to set up the project locally using XAMPP:
    - Browse and select the `hotel.sql` file, located inside the `Hotel` folder.
    - Click **Go** to import the database. 
 
-   **Note:** If the database is already created, you can skip steps 4 to 8.
+   **Note:** If the database is already created, you can skip step 4.
 
 5. **Access the Project**
    - Open a browser and go to `http://localhost/Hotel/` to access the main application.
